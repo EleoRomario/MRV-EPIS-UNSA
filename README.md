@@ -1,5 +1,5 @@
 # MRV-EPIS-UNSA
-## Autores ✒️
+## Autor ✒️
 
 * **Eleo Romario Huayhua Paco** 
 * **Laboratorio MRV Grupo - B** 
